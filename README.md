@@ -18,6 +18,7 @@ Now give print().
 ### Step 6: 
 End the program.
 ## PROGRAM:
+```
 Developed by: JEEVITHA S
 ref.no: 212222100016
 num=0
@@ -26,6 +27,7 @@ with open("file1.txt","r") as f1:
         word=i.split()
         num += len(word)
 print("The number of words are in the file is ",num)
+```
 
 ### OUTPUT:
 ![image](https://github.com/Jeevithha/Word-count/assets/123623197/0b6159d4-b959-4ece-bd5a-5365293e9e44)
